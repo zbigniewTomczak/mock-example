@@ -1,4 +1,4 @@
-mock-example
+Mocking example using manual mocking, Mockito and EasyMock
 ============
 
 Maven example project for testing using mocks.
@@ -9,5 +9,6 @@ The example is ported to Java and is presented using:
 - Mockito frameworks
 
 The interaction being tested is that LoginManager calls to log during login.
-There are 3 tests that shoud pass after running simple
+There are 3 tests that shoud pass after running simple:
+
     mvn test
