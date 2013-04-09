@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.easymock.EasyMock;
 import org.mockito.Mockito;
 
-//We're testing the same things 3 times
+//We're testing the same thing 3 times
 public class LoginManagerTest {
 
   class ManualFakeLogger implements ILogger {
